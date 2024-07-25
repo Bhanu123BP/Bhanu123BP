@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhanu123BP
+- 👋 Hi, I’m @Bhanuprakash
 - 👀 I’m interested in Traveling and Coding.
 - 🌱 I’m currently learning Data science and OpenCV
 - 💞️ I’m looking to collaborate on BharatGPT
